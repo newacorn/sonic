@@ -1,4 +1,4 @@
-package decoder
+package api
 
 // NewDecoderCopy creates a  decoder instance prevent escape.
 func NewDecoderCopy(s string) Decoder {
